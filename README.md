@@ -27,6 +27,7 @@ $ pip install cdk-alexa-skill
 ## Usage/Examples
 
 #### TypeScript:
+
 ```javascript
 import * as cdk from '@aws-cdk/core';
 import * as lambda from '@aws-cdk/aws-lambda';
